@@ -5,5 +5,4 @@ pandas
 statsmodels
 sklearn
 scipy
-io
-docx
+
