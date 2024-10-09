@@ -1,2 +1,9 @@
 streamlit
 matplotlib
+numpy
+pandas
+statsmodels
+sklearn
+scipy
+io
+docx
